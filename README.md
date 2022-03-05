@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Antich-cs
+- 👀 I’m interested in game developing and software developing
+- 🌱 I’m currently learning Unity C# 
+- 📱 My discord account is Antich.cs#9109
